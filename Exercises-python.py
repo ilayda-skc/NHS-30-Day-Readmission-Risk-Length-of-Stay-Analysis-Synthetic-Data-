@@ -42,7 +42,7 @@ print("Files in this directory:", os.listdir())
 print("hey")
 # Load and prepare data
 # Set your working directory
-working_dir = r"c:/Users/ilayd/OneDrive/Belgeler/EdgeH_R_Practice"
+working_dir = r"c:/Your/Path"
 
 # Change to that directory
 os.chdir(working_dir)
